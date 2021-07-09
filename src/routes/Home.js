@@ -35,7 +35,7 @@ class Home extends React.Component {
       {isLoading
           ? <div className="loader">
               <span className="loader_text">Loading...</span>
-          </div>
+            </div>
             :
             <div className="movies">
             {movies.map(movie => {
