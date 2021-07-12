@@ -6,7 +6,12 @@ function Navigation() {
   return (
   <div className="nav">
     <Link to="/">Home</Link>
-    <Link to="/about">About</Link>
+    <Link to={{ // to 에는 다른 props가 들어갈 수 있다.
+      pathname:"/about",
+      // state:{
+      //   fromNavigation: true
+      // }
+    }}>About</Link>
   </div>
   );
 }

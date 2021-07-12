@@ -2,7 +2,7 @@ import React from "react";
 import "./About.css";
 
 
-function About() {
+function About(a) {
   return (
     <div className="about_container">
       <span>
