@@ -1,3 +1,3 @@
 # Movie app clone cording 2
 
-this is practice
+normard corder react clone cording
