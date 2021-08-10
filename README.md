@@ -1,3 +1,3 @@
-# Movie app clone cording 2
+# Movie app clone coding 2
 
-normard corder react clone cording
+nomad coder react clone coding
