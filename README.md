@@ -1,3 +1,3 @@
-# Movie app clone coding 2
+# Movie app clone coding
 
-nomad coder react clone coding
+노마드코더 리액트 클론코딩
